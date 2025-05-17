@@ -107,7 +107,7 @@ const Todo = () => {
   );
 };
 
-const style = StyleSheet.create({
+export const style = StyleSheet.create({
   container: {
     margin: 10,
     marginTop: 20,
